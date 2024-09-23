@@ -13,7 +13,7 @@
 
 NimBLEAdvertising *pAdvertising;
 
-const char* defaultBulbName = "Circa_Sleep";
+const char* defaultBulbName = "Client_device";
 char currentBulbName[50] = "";
 int currentTemperatureValue = 3000;
 int currentBrightnessValue = 50;
